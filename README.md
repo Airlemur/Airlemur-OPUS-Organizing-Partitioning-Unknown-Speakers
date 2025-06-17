@@ -13,9 +13,11 @@ OPUS is an audio processing tool that automatically analyzes thousands of unlabe
 
 ▶️ Getting Started
 
-    1- Configure the Project: Open the project_config.py file and set the HF_TOKEN, DATA_DIR (your audio folder), and OUTPUT_DIR (where the results will be saved).
+    1- Read the wiki.
+     
+    2- Configure the Project: Open the project_config.py file and set the HF_TOKEN, DATA_DIR (your audio folder), and OUTPUT_DIR (where the results will be saved).
 
-    2- Run the Analysis: Open your terminal, navigate to the project directory, and execute the main script:
+    3- Run the Analysis: Open your terminal, navigate to the project directory, and execute the main script:
 
     python main.py
 
