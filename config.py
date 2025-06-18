@@ -5,7 +5,7 @@
 import os
 
 # --- Hugging Face Credentials ---
-HF_TOKEN = ""
+HF_TOKEN = "Enter HuggingFace Token"
 MODEL_NAME = "pyannote/embedding"
 
 # --- Directory Paths ---
